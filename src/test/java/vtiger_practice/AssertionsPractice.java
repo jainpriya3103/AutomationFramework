@@ -13,7 +13,7 @@ public class AssertionsPractice {
 	@Test
 	public void test()
 	{
-		System.out.println("step11S");
+		System.out.println("step11Sweweew");
 		System.out.println("step2");
 		System.out.println("step3");
 		System.out.println("step4");
