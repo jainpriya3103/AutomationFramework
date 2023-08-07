@@ -14,7 +14,7 @@ public class AssertionsPractice {
 	public void test()
 	{
 		System.out.println("step11Sweweew");
-		System.out.println("step2");
+		System.out.println("step2dsfddf");
 		System.out.println("step3");
 		System.out.println("step4");
 		Assert.assertTrue(false);
